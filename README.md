@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Lucia!
 - 🌎 I'm from Mar del Plata, Argentina.
 - 👀 I'm interested in facing new challenges in programming and training my logic well to be able to solve problems in the most efficient way possible.
-- 👶 I have knowledge in C, HTML, CSS and JavaScript.
+- 👶 I have knowledge in C, HTML, CSS and JavaScript. I also know the basics of Git and Gitbash.
 - 🌱 I’m currently learning Java at the University.
