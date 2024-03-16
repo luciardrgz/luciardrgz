@@ -2,7 +2,7 @@
 
 👩🏻‍🎓 I've studied Programming at <b>Universidad Tecnologica Nacional FRMDP.</b><br>
 
-👩🏻‍💻 I'm looking for my <b>first IT job opportunity</b>! 
+👩🏻‍💻 I work as a <b>backend developer</b> but I love front too <3
 
 🤖 I'm fascinated by <b>Robotics</b> and <b>AI</b>. I'll not leave this life without having experienced in any of these areas!
 
